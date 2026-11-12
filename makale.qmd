@@ -1,6 +1,6 @@
 ---
 title: "Yüksek Enflasyon ve Kur Oynaklığı Döneminde BIST 100 Endeksinin Nominal ve Reel (USD) Performans Analizi (2021–2026)"
-author: "103 - Ceren Yahşi"
+author: "Ceren Yahşi"
 date: "2026-11-12"
 bibliography: references.bib
 format:

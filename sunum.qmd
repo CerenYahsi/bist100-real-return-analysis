@@ -1,7 +1,7 @@
 ---
 title: "BIST 100 Nominal vs. Reel (USD) Getiri Analizi"
 subtitle: "2021–2026 Dönemi Kur Etkisi, Oynaklık ve Para Yanılsaması Testi"
-author: "103 - Ceren Yahşi"
+author: "Ceren Yahşi"
 date: "2026-11-12"
 format:
   revealjs:
