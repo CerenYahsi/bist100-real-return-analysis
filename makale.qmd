@@ -1,0 +1,32 @@
+---
+title: "Yüksek Enflasyon ve Kur Oynaklığı Döneminde BIST 100 Endeksinin Nominal ve Reel (USD) Performans Analizi (2021–2026)"
+author: "103 - Ceren Yahşi"
+date: "2026-11-12"
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+## Özet
+
+Bu çalışmada Borsa İstanbul BIST 100 endeksinin 04 Ocak 2021 – 23 Ekim 2026 tarihleri arasındaki 1.448 ortak işlem gününe ait nominal (TL) ve reel (USD) getirileri ile yıllıklandırılmış risk (volatilite) düzeyleri incelenmiştir [@bist_data; @tcmb_evds]. Bulgular, endeksin TL bazında **+%643,41** oranında yükselmesine karşın USD bazında yalnızca **+%11,21** reel getiri sağlayabildiğini ve incelenen 6 yılın 4 tanesinde negatif reel getiri ürettiğini ortaya koymaktadır.
+
+## Giriş ve Kuramsal Çerçeve
+
+Ekonomi literatüründe Irving Fisher [@fisher1928money] tarafından tanımlanan **para yanılsaması (money illusion)**, bireylerin varlık değerlerindeki değişimleri satın alma gücü yerine nominal para birimi üzerinden değerlendirme eğilimini ifade eder. Gelişmekte olan piyasalarda döviz kuru geçişkenliği nedeniyle hisse senedi endekslerinin gerçek performansı yalnızca sert para birimi (USD) cinsinden ölçüldüğünde sağlıklı biçimde analiz edilebilir.
+
+## Veri ve Metodoloji
+
+Analizde `bist100.csv` ve `usdtry.csv` veri setleri Python ve Pandas ortamında tarih bazında birleştirilmiştir. Günlük dolar bazlı endeks değeri $BIST\_USD_t = BIST\_TL_t / USD\_TRY_t$ formülüyle türetilmiş, yıllıklandırılmış oynaklık ise günlük getirilerin standart sapmasının $\sqrt{252}$ ile çarpılmasıyla hesaplanmıştır.
+
+## Ampirik Bulgular
+
+Dönem başında 1.495,40 puan ($201,17) olan endeks, dönem sonunda 11.117,00 puana ($223,73) ulaşmıştır. Yıllık bazda 2021 (-%30,52), 2023 (-%16,66), 2025 (-%6,89) ve 2026 (-%16,34) yıllarında dolar bazlı negatif getiri gözlenirken; yalnızca 2022 (+%104,20) ve 2024 (+%7,47) yıllarında pozitif reel getiri kaydedilmiştir. Ayrıca USD bazlı yıllıklandırılmış volatilite (%32,00), TL bazlı volatilitenin (%28,09) üzerinde gerçekleşmiştir.
+
+## Sonuç
+
+Elde edilen bulgular araştırma hipotezini desteklemektedir. Yatırımcıların yüksek enflasyonist ortamlarda nominal endeks artışları yerine döviz bazlı reel getiriyi ve kur kaynaklı ek volatiliteyi dikkate almaları kritik önem taşımaktadır.
+
+## Kaynakça

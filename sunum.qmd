@@ -1,0 +1,49 @@
+---
+title: "BIST 100 Nominal vs. Reel (USD) Getiri Analizi"
+subtitle: "2021–2026 Dönemi Kur Etkisi, Oynaklık ve Para Yanılsaması Testi"
+author: "103 - Ceren Yahşi"
+date: "2026-11-12"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+---
+
+## Araştırma Problemi ve Hipotez
+
+- **Problem:** Yüksek enflasyon ve kur artışının yaşandığı dönemlerde TL bazlı borsa getirileri yatırımcılarda **para yanılsaması** yaratmaktadır.
+- **Hipotez ($H_1$):** BIST 100 endeksi 2021–2026 arasında TL bazında yüksek nominal artış gösterse de, USD bazında reel getirisi sınırlı kalmış ve yılların çoğunda negatif gerçekleşmiştir.
+- **Kapsam:** 04 Ocak 2021 – 23 Ekim 2026 (**1.448 ortak işlem günü**).
+
+---
+
+## Genel Performans Özeti (2021–2026)
+
+| Metrik | TL Bazlı (Nominal) | USD Bazlı (Reel) |
+| :--- | :---: | :---: |
+| **Başlangıç (2021 Başı)** | 1.495,40 TL | $201,17 |
+| **Bitiş (Ekim 2026)** | 11.117,00 TL | $223,73 |
+| **Toplam Getiri (%)** | **+%643,41** | **+%11,21** |
+| **Yıllıklandırılmış Risk** | %28,09 | %32,00 |
+
+---
+
+## Yıllık Kırılım: Kur Getiriyi Nasıl Eritti?
+
+| Yıl | TL Getiri (%) | USD Getiri (%) | Durum |
+| :--- | :---: | :---: | :--- |
+| **2021** | +%24,23 | **-%30,52** | Reel Kayıp |
+| **2022** | +%185,94 | **+%104,20** | Güçlü Reel Kazanç |
+| **2023** | +%31,96 | **-%16,66** | Reel Kayıp |
+| **2024** | +%28,94 | **+%7,47** | Sınırlı Reel Kazanç |
+| **2025** | +%13,05 | **-%6,89** | Reel Kayıp |
+| **2026** | -%3,32 | **-%16,34** | Reel Kayıp |
+
+---
+
+## Sonuç ve Çıkarımlar
+
+1. **Nominal Yanılsama:** +%643,41 oranındaki TL artışının büyük bölümü kur artışıyla erimiş, kümülatif USD getirisi **+%11,21** seviyesinde kalmıştır.
+2. **Süreklilik Sorunu:** 6 takvim yılının 4 tanesinde dolar bazlı yatırımcı reel kayıp yaşamıştır.
+3. **Artan Oynaklık:** Kur riski eklendiğinde yıllıklandırılmış oynaklık %28,09 seviyesinden **%32,00** düzeyine çıkmaktadır.
