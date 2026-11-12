@@ -5,8 +5,8 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Star%20Schema%20%26%20DAX-F2C811?logo=powerbi)](https://powerbi.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-- **Proje Kodu - Proje Sahibi:** 103 - Ceren Yahşi
-- **Eğitim Programı:** SoftITo — Veri Analitiği 26
+- **Author:** Ceren Yahşi
+- **Domain & Stack:** Financial Data Analytics · Python · Pandas · Power BI · DAX · Quarto
 - **Analiz Dönemi:** 04 Ocak 2021 – 23 Ekim 2026 (1.448 Ortak İşlem Günü)
 
 ---
