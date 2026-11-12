@@ -46,3 +46,10 @@ format:
 1. **Nominal Yanılsama:** +%643,41 oranındaki TL artışının büyük bölümü kur artışıyla erimiş, kümülatif USD getirisi **+%11,21** seviyesinde kalmıştır.
 2. **Süreklilik Sorunu:** 6 takvim yılının 4 tanesinde dolar bazlı yatırımcı reel kayıp yaşamıştır.
 3. **Artan Oynaklık:** Kur riski eklendiğinde yıllıklandırılmış oynaklık %28,09 seviyesinden **%32,00** düzeyine çıkmaktadır.
+
+
+## Kaynakça {.smaller}
+
+- **Borsa İstanbul A.Ş. (2026).** *BIST 100 Pay Endeksi Tarihsel Kapanış Verileri (2021–2026).* <https://www.borsaistanbul.com/>
+- **Fisher, Irving (1928).** *The Money Illusion.* Adelphi Company.
+- **Türkiye Cumhuriyet Merkez Bankası (TCMB) (2026).** *Elektronik Veri Dağıtım Sistemi (EVDS): Döviz Kurları (USD/TRY) Verileri.* <https://evds2.tcmb.gov.tr/>
