@@ -1,2 +1,3 @@
-*_files/** linguist-vendored
+makale_files/** linguist-vendored
+sunum_files/** linguist-vendored
 *.html linguist-vendored
