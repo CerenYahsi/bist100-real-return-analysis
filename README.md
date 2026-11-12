@@ -11,6 +11,13 @@
 
 ---
 
+
+## Power BI Dashboard Önizlemesi
+
+![BIST 100 Reel Getiri Power BI Dashboard](dashboard_preview.png)
+
+---
+
 ## 1. Proje Özeti ve Araştırma Hipotezi
 
 Yüksek enflasyon ve döviz kuru oynaklığının yaşandığı dönemlerde finansal varlıkların nominal (TL bazlı) getirileri yatırımcılarda **para yanılsaması (money illusion)** yaratabilmektedir. Bu çalışma, Borsa İstanbul BIST 100 endeksinin 2021–2026 dönemindeki performansını hem **TL (nominal)** hem de **USD (reel/döviz bazlı)** perspektiften karşılaştırarak kur etkisinin borsa kazançlarını ne ölçüde erittiğini ampirik olarak test etmektedir.
