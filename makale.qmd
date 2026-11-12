@@ -10,7 +10,7 @@ format:
 
 ## Özet
 
-Bu çalışmada Borsa İstanbul BIST 100 endeksinin 04 Ocak 2021 – 23 Ekim 2026 tarihleri arasındaki 1.448 ortak işlem gününe ait nominal (TL) ve reel (USD) getirileri ile yıllıklandırılmış risk (volatilite) düzeyleri incelenmiştir [@bist_data; @tcmb_evds]. Bulgular, endeksin TL bazında **+%643,41** oranında yükselmesine karşın USD bazında yalnızca **+%11,21** reel getiri sağlayabildiğini ve incelenen 6 yılın 4 tanesinde negatif reel getiri ürettiğini ortaya koymaktadır.
+Bu çalışmada Borsa İstanbul BIST 100 endeksinin 04 Ocak 2021 – 23 Ekim 2026 tarihleri arasındaki 1.448 ortak işlem gününe ait nominal (TL) ve reel (USD) getirileri ile yıllıklandırılmış risk (volatilite) düzeyleri incelenmiştir [@bist_data; @tcmb_evds]. Bulgular, endeksin TL bazında **+%643,41** oranında yükselmesine karşın USD bazında yalnızca **+%11,21** reel getiri sağlayabildiğini ve incelenen 6 takvim yılının 4’ünde negatif reel getiri ürettiğini ortaya koymaktadır.
 
 ## Giriş ve Kuramsal Çerçeve
 
@@ -22,7 +22,7 @@ Analizde `bist100.csv` ve `usdtry.csv` veri setleri Python ve Pandas ortamında 
 
 ## Ampirik Bulgular
 
-Dönem başında 1.495,40 puan ($201,17) olan endeks, dönem sonunda 11.117,00 puana ($223,73) ulaşmıştır. Yıllık bazda 2021 (-%30,52), 2023 (-%16,66), 2025 (-%6,89) ve 2026 (-%16,34) yıllarında dolar bazlı negatif getiri gözlenirken; yalnızca 2022 (+%104,20) ve 2024 (+%7,47) yıllarında pozitif reel getiri kaydedilmiştir. Ayrıca USD bazlı yıllıklandırılmış volatilite (%32,00), TL bazlı volatilitenin (%28,09) üzerinde gerçekleşmiştir.
+Dönem başında 1.495,40 puan (201,17 USD) olan endeks, dönem sonunda 11.117,00 puana (223,73 USD) ulaşmıştır. Yıllık bazda 2021 (-%30,52), 2023 (-%16,66), 2025 (-%6,89) ve 2026 (-%16,34) yıllarında dolar bazlı negatif getiri gözlenirken; yalnızca 2022 (+%104,20) ve 2024 (+%7,47) yıllarında pozitif reel getiri kaydedilmiştir. Ayrıca USD bazlı yıllıklandırılmış volatilite (%32,00), TL bazlı volatilitenin (%28,09) üzerinde gerçekleşmiştir.
 
 ## Sonuç
 
